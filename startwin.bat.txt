@@ -1,0 +1,6 @@
+@ECHO OFF
+TITLE Welcomer Discord Bot
+cd ./
+node .
+
+ECHO There is Some error

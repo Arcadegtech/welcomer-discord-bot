@@ -1,0 +1,5 @@
+{
+    "token": "replace_with_bot_token",
+    "welcomechannelid": "replace_with_channel_id",
+    "welcomeroleid": "replace_with_role_id"
+}
